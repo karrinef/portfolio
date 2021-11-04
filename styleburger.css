@@ -1,0 +1,65 @@
+body{
+    font-family: 'Calistoga', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+#burger{
+    background:url("../Brunch\ web\ site/visuel-main.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 61px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+   
+    color:white;
+}
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 5px;
+    margin: 0;
+    width: 733px;
+    color:white;
+    text-decoration:none;
+}
+.menu li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 300;
+    font-size: 2em;
+}
+.cashback{
+    font-size: xx-large;
+    margin-left: 30px;
+}
+p{
+margin-left: 30px;
+}
+.commande a{
+    background-color: crimson;
+    color: white;
+    margin-left: 30px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-decoration:none;
+}
+.page2{
+    background: url("../Brunch\ web\ site/bg-pictos_1.jpg");
+}
+.container{
+    display:inl
+    justify-content: space-evenly;
+}
